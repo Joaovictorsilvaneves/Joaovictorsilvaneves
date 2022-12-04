@@ -22,4 +22,5 @@ OI, meu nome é João Victor e sou um programador Jr.
   </div>
  
           
-          
+  ![Snake animation](https://github.com/joaovictorsilvaneves/joaovictorsilvaneves/blob/output/github-contribution-grid-snake.svg)
+ 
