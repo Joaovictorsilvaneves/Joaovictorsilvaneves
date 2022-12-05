@@ -2,8 +2,8 @@ OI, meu nome é João Victor e sou um programador Jr.
 
 <div align="center">
   <a href="https://github.com/joaovictorsilvaneves">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaovictorsilvaneves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorsilvaneves&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictorsilvaneves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorsilvaneves&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  <div style="display: inline_block"><br>
