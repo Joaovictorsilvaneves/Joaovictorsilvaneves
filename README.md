@@ -1,9 +1,9 @@
 OI, meu nome é João Victor e sou um programador Jr.
 
 <div align="center">
-  <a href="https://github.com/joaovictorsilvaneves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictorsilvaneves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorsilvaneves&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Joaovictorsilvaneves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaovictorsilvaneves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovictorsilvaneves&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  <div style="display: inline_block"><br>
@@ -22,5 +22,5 @@ OI, meu nome é João Victor e sou um programador Jr.
   </div>
  
           
-  ![snake gif](https://github.com/joaovictorsilvaneves/joaovictorsilvaneves/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Joaovictorsilvaneves/Joaovictorsilvaneves/blob/output/github-contribution-grid-snake.svg)
  
