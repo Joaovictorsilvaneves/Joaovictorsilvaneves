@@ -1,4 +1,4 @@
-OI, meu nome é João Victor e sou um programador Jr.
+OI, meu nome é João Victor e sou um programador Jr focado em desenvolvimento Front-End ou de jogos utilizando Unity ou Unreal
 
 <div align="center">
   <a href="https://github.com/Joaovictorsilvaneves">
